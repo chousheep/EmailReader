@@ -23,3 +23,13 @@ blandishment, honeyed/soft words, smooth talk, flattery, cajolery, coaxing, whee
 // His speech was equal parts blarney and bravado.
 他的演講一半是花言巧語，一半是虛張聲勢。
 
+// A little blarney goes a long way when you're trying to make a sale.
+當你在推銷東西時，一點甜言蜜語會大有幫助。
+
+// He tried to **blarney his way into** getting a free drink at the pub.
+他試圖用花言巧語哄騙酒保免費給他一杯酒。
+- blarney [one's way into Ving]
+- bluff [one's way through negotiations] with blarney
+
+
+
