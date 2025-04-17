@@ -17,9 +17,9 @@ Stemming from the legendary Blarney Stone at Blarney Castle in Ireland, the word
 blandishment, honeyed/soft words, smooth talk, flattery, cajolery, coaxing, wheedling, compliments, fulsomeness, simpering, fawning, toadying, ingratiation, currying favor, inveiglement
 
 ## Examples
+// You can’t bluff your way through negotiations with just blarney.
+你不能只靠甜言蜜語就想唬弄過整場談判。
 
-// Feherty’s show was comedy and commentary, **blarney** and biography dished through cautionary tales of his own experiences. (Golf Digest)
+// His speech was equal parts blarney and bravado.
+他的演講一半是花言巧語，一半是虛張聲勢。
 
-* comedy/commentary, blarney/biography 押頭韻
-
-// To read his account of the administration’s foreign policy is to yearn for an earlier era of American diplomacy, when **blarney** about the nation’s omnipotence was not permitted to substitute for realistic prudence. (NYT)
